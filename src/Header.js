@@ -4,7 +4,7 @@ import "./header.css";
 const Header = () => {
     return (
         <div className="header">
-            <h1><em>PUPPY BOWL 2023</em></h1>
+            <h1><em>PUPPY BOWL REACT 2023</em></h1>
         </div>
     );
 };
